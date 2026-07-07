@@ -1,0 +1,18 @@
+Id,Name,Footprint,Quantity,Price,Value,Supplier,LINK:
+1,SW2,SW_SPST_TS-1088-xR020,1,0,enable,Self-sourced,
+2,SW1,SW_SPST_TS-1088-xR020,1,0,boot,Self-sourced,
+3,"R5,R4",R_0603_1608Metric,2,0,33r,Self-sourced,
+4,U3,ESP32-S3-WROOM-1,1,5.53,ESP32-S3-WROOM-1,LCSC,https://www.lcsc.com/product-detail/C2913202.html?s_z=n_q_p_ESP32%2520S3%2520WROOM&spm=wm.ssy.bg.3.stp&lcsc_vid=EQBXBlEAQgcKBVQCEVVYVVZWFAJcV1dXFlJYUFxeRgIxVlNeRFVfX1xXQlhfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktTQVFADxALGw%3D%3D
+5,U2,SOT-223-3_TabPin2,1,1,AMS1117-3.3,LCSC,https://www.lcsc.com/product-detail/C6186.html?spm=wm.gwc.xh.1.tp___wm.sxq.ssl.gwc&lcsc_vid=EQBXBlEAQgcKBVQCEVVYVVZWFAJcV1dXFlJYUFxeRgIxVlNeRFVfX1xXQlhfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktTQVFADxALGw%3D%3D
+6,U1,LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,1,6.28,ISM330DHCX,LCSC,https://www.lcsc.com/product-detail/C2655101.html?spm=wm.gwc.xh.0.tp___wm.sxq.ssl.gwc&lcsc_vid=EQBXBlEAQgcKBVQCEVVYVVZWFAJcV1dXFlJYUFxeRgIxVlNeRFVfX1xXQlhfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktTQVFADxALGw%3D%3D
+7,R6,R_0603_1608Metric,1,0,1k,Self-sourced,
+8,R3,R_0603_1608Metric,1,0,10k,Self-sourced,
+9,"R2,R1",R_0603_1608Metric,2,0,5.1k,Self-sourced,
+10,J1,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,0,USB_C_Receptacle_USB2.0_14P,self-sourced,
+11,D1,C_0603_1608Metric,1,0,LED,self-sourced,
+12,"C8,C7,C6,C5,C4,C3",C_0603_1608Metric,6,0,100nF,self-sourced,
+13,C2,C_0603_1608Metric,1,0,22 uF,self-sourced,
+14,C1,C_0603_1608Metric,1,0,10 uF,self-sourced,
+15,PCB,,,6,,JLCPCB,
+,,,,,,,
+,,,Total cost with shipping:,36 USD,,,
