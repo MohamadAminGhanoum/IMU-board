@@ -1,5 +1,5 @@
 # IMU-board
-Im making a module that has small sensors on the pcbs, which will give me motion data, which i will track and recieve on either my phone or computer using the usb-c
+Im making a module that has small sensors on the pcbs, which will give me motion data, which i will track and recieve on either my phone or computer using the usb-c. i have planned to use components to measure acceleration, and gestures, etc. i have done some research, and i have decided to use the ST ISM330DHCXTR which can be found from LCSC electronics
 
 <img width="339" height="344" alt="Screenshot 2026-07-07 at 11 54 32" src="https://github.com/user-attachments/assets/ed176577-549e-40a0-adcf-ac51bf3f63b0" />
 
